@@ -1,4 +1,6 @@
 package com.fes.myapplication4;
 
-public class Navigation2 {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Navigation2 extends AppCompatActivity {
 }
